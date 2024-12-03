@@ -1,2 +1,5 @@
 # -github-notes
-i.Git Github Repo Commit
+i.Git
+ii.Github 
+iii.Repo 
+iv.Commit
